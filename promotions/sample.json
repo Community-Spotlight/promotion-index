@@ -1,0 +1,10 @@
+{
+  "id": "sample-promotion",
+  "promoter": "Community Spotlight",
+  "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"]
+  "media": {
+    "images": true, "videos": false,
+    "type": "SVG", "expires": "never",
+    "sizes": ["250x250"],
+  }
+}
