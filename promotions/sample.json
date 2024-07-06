@@ -2,12 +2,12 @@
   "expires": "never",
   "id": "sample",
   "promoter": "Community Spotlight",
-  "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"]
+  "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"],
   "media": {
     "images": {
       "enabled": true,
       "type": "SVG", 
-      "sizes": ["250x250"],
+      "sizes": ["250x250"]
     },
     "videos": {
       "enabled": true,
