@@ -1,9 +1,9 @@
 {
+  "expires": "never",
   "id": "sample-promotion",
   "promoter": "Community Spotlight",
   "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"]
   "media": {
-    "expires": "never",
     "images": {
       "enabled": true,
       "type": "SVG", 
