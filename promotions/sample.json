@@ -7,7 +7,7 @@
     "images": {
       "enabled": true,
       "type": "SVG", 
-      "sizes": ["250x250"]
+      "sizes": ["250x250", "300x250", "120x360", "360x120", "300x50", "50x300", "480x270"]
     },
     "videos": {
       "enabled": true,
