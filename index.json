@@ -3,6 +3,7 @@
     "expires": "never",
     "id": "sample",
     "promoter": "Community Spotlight",
+    "promoter-url": "https://github.com/Community-Spotlight",
     "tags": ["gaming", "art", "technology", "music", "entertainment"],
     "media": {
       "images": {
