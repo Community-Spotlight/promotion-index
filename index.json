@@ -3,7 +3,7 @@
     "expires": "never",
     "id": "sample",
     "promoter": "Community Spotlight",
-    "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"],
+    "tags": ["gaming", "art", "technology", "music", "entertainment"],
     "media": {
       "images": {
         "250x250": { "type": "SVG"},
