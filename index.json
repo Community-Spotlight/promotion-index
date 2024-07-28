@@ -1,1 +1,22 @@
-["sample"]
+{
+  "sample": {
+    "expires": "never",
+    "id": "sample",
+    "promoter": "Community Spotlight",
+    "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"],
+    "media": {
+      "images": {
+        "250x250": "SVG",
+        "300x250": "SVG",
+        "120x360": "SVG",
+        "360x120": "SVG",
+        "300x50": "SVG",
+        "50x300": "SVG",
+        "480x270": "SVG"
+      },
+      "videos": {
+        "5-sec": "MP4"
+      }
+    }
+  }
+}
