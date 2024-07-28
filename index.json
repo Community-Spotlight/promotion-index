@@ -6,16 +6,16 @@
     "tags": ["Gaming", "Art", "Technology", "Music", "Entertainment"],
     "media": {
       "images": {
-        "250x250": "SVG",
-        "300x250": "SVG",
-        "120x360": "SVG",
-        "360x120": "SVG",
-        "300x50": "SVG",
-        "50x300": "SVG",
-        "480x270": "SVG"
+        "250x250": { "type": "SVG"},
+        "300x250": { "type": "SVG"},
+        "120x360": { "type": "SVG"},
+        "360x120": { "type": "SVG"},
+        "300x50": { "type": "SVG"},
+        "50x300": { "type": "SVG"},
+        "480x270": { "type": "SVG"}
       },
       "videos": {
-        "5-sec": "MP4"
+        "4:3": { "length": 5, "type": "MP4" }
       }
     }
   }
