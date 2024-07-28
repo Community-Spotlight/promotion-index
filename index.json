@@ -14,9 +14,9 @@
         "50x300": { "type": "SVG"},
         "480x270": { "type": "SVG"}
       },
-      "videos": {
-        "4:3": { "length": 5, "type": "MP4" }
-      }
+      "videos": [
+        { "size": "4:3", "length": 5, "type": "MP4" }
+      ]
     }
   }
 }
