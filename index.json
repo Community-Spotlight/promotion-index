@@ -7,16 +7,16 @@
     "tags": ["gaming", "art", "technology", "music", "entertainment"],
     "media": {
       "images": [
-        { "size": "250x250", "type": "SVG"},
-        { "size": "300x250", "type": "SVG"},
-        { "size": "120x360", "type": "SVG"},
-        { "size": "360x120", "type": "SVG"},
-        { "size": "300x50", "type": "SVG"},
-        { "size": "50x300", "type": "SVG"},
-        { "size": "480x270", "type": "SVG"}
+        { "size": "250x250", "type": "svg"},
+        { "size": "300x250", "type": "svg"},
+        { "size": "120x360", "type": "svg"},
+        { "size": "360x120", "type": "svg"},
+        { "size": "300x50", "type": "svg"},
+        { "size": "50x300", "type": "svg"},
+        { "size": "480x270", "type": "svg"}
       ],
       "videos": [
-        { "size": "4:3", "length": 5, "type": "MP4" }
+        { "size": "4:3", "length": 5, "type": "mp4" }
       ]
     }
   }
