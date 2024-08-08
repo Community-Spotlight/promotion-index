@@ -6,15 +6,15 @@
     "promoter-url": "https://github.com/Community-Spotlight",
     "tags": ["gaming", "art", "technology", "music", "entertainment"],
     "media": {
-      "images": {
-        "250x250": { "type": "SVG"},
-        "300x250": { "type": "SVG"},
-        "120x360": { "type": "SVG"},
-        "360x120": { "type": "SVG"},
-        "300x50": { "type": "SVG"},
-        "50x300": { "type": "SVG"},
-        "480x270": { "type": "SVG"}
-      },
+      "images": [
+        { "size": "250x250", "type": "SVG"},
+        { "size": "300x250", "type": "SVG"},
+        { "size": "120x360", "type": "SVG"},
+        { "size": "360x120", "type": "SVG"},
+        { "size": "300x50", "type": "SVG"},
+        { "size": "50x300", "type": "SVG"},
+        { "size": "480x270", "type": "SVG"}
+      ],
       "videos": [
         { "size": "4:3", "length": 5, "type": "MP4" }
       ]
