@@ -1,3 +1,3 @@
-# promotion-index
+# Promotion-Index
 
-This is a index of all the promotions so we can keep track of them.
+This is a index of all the active promotions.
